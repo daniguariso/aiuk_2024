@@ -1,36 +1,36 @@
-﻿Policy Area,Category,Programme,SDG,Additional Details,Colour,TOTAL
-Work and Social Security,Support for public service and management improvement,Activities to support public service and good governance,16,Training for public servants,#00689D,9367315
-Salary and Economic Provisions,Core fundings,Natural Disasters Fund,13,Strengthening information system,#3F7E44,7782505
-Treasury and Public Credit,Other subsidies,Strengthening the bank savings protection system,10,Improve regualation,#DD1367,10317184
-"Agrarian, Territorial and Urban Development",Core fundings,Program for the constitution of priority territorial reserves for orderly urban development,11,"Adequate, safe and affordable housing and services",#FD9D24,15491356
-National Defense,Functions of the Armed Forces,Strengthening the military intelligence system,16,Illicit financial flows,#00689D,1868930
-Public Education,Other subsidies,Expansion of higher secondary and higher education,4,Access to technical training,#C5192D,2643501
-"Agrarian, Territorial and Urban Development",Other subsidies,Modernization program for public property registries and cadastres,1,"Property rights, inheritance, control of land and other assets",#E5243B,19337675
-Salary and Economic Provisions,Other subsidies,Electricity rate subsidies,7,"Affordable, modern and trusted services",#FCC30B,11048531
-Non-Sectorized Entities,Other subsidies,Indigenous rights program,16,Community protection,#00689D,12787453
-Health,"Planning, monitoring and evaluation of public policies",Prevention and care of HIV/AIDS and other STIs,3,Awareness raising campaigns,#4C9F38,3374562
-Environment and Natural Resources,"Planning, monitoring and evaluation of public policies",Assessment of the National Climate Change Policy,13,Medium-term forecasts,#3F7E44,2105026
-Government,Provision of public services,Promote care and prevention of violence against women,5,Awareness raising campaigns,#FF3A21,7007942
-Economy,Provision of public services,Production of geological information of the national territory,9,Impact on employment,#FD6925,5658249
-Public Education,Provision of public services,Gender equality policies in the educational sector,5,Reproductive right,#FF3A21,12874547
-Health,Provision of public services,Prevention and care against addictions,3,Awareness raising campaigns,#4C9F38,12556907
-Work and Social Security,Provision of public services,Labor justice enforcement,8,Promoting inclusion,#A21942,15579848
-"Agrarian, Territorial and Urban Development",Provision of public services,Ordering and regulation of rural property,1,Access to economic resources,#E5243B,15354666
-"Agrarian, Territorial and Urban Development",Provision of public services,Administration of common funds of agrarian communities and supervision of expropriations,11,Efficient use of resources,#FD9D24,7555985
-Environment and Natural Resources,Provision of public services,Operation and maintenance of water infrastructure,6,Affordable price,#26BDE2,15055271
-Economy,Promotion and encouragement,Promotion of foreign trade and attraction of foreign direct investment,17,Impact on employment,#19486A,18309905
-Turismo,Promotion and encouragement,Development and promotion of sustainable tourism projects,12,Cultural promotion and local products,#BF8B2E,17022397
-Environment and Natural Resources,Regulation and supervision,Comprehensive and sustainable water management,6,End open defecation,#26BDE2,15240750
-Environment and Natural Resources,Regulation and supervision,Air quality and vehicle verification programs,11,Municipal waste management,#FD9D24,8173193
-Environment and Natural Resources,Regulation and supervision,National system of protected natural areas,14,Strengthening its resilience,#0A97D9,8144444
-Environment and Natural Resources,Regulation and supervision,Environmental regulations and instruments for sustainable development,15,Fight desertification,#56C02B,1567582
-Energy,Regulation and supervision,Regulation and supervision of nuclear and radiological activities,7,Nuclear waste management,#FCC30B,5040807
-Agriculture and Rural Development,Core fundings,Agriculture promotion program,2,Increased productivity and agricultural production,#DDA63A,9550469
-Agriculture and Rural Development,Core fundings,Livestock development program,2,Increased productivity and agricultural production,#DDA63A,16818430
-Economy,Other subsidies,Program for the development of the software industry and innovation,8,Diversification,#A21942,8869985
-Economy,Other subsidies,Program for industrial productivity and competitiveness,9,Impact on employment,#FD6925,9764331
-Public Education,Core fundings,Physical culture and sports program,3,Improve wellbeing,#4C9F38,3680831
-Public Education,Core fundings,National English Program,4,Improve teaching quality,#C5192D,8261683
-Work and Social Security,Provision of public services,Employment support program,8,Access to technical training,#A21942,6664361
-Environment and Natural Resources,Support for operating rules,Conservation program for sustainable development,14,Pollution from activities carried out on land,#0A97D9,4058072
-Environment and Natural Resources,Support for operating rules,Support for sustainable forest development,15,Rehabilitate degraded lands and soils,#56C02B,17213051
+﻿Policy Area,Category,Programme,SDG,Additional Details,Colour,TOTAL,SDG Description
+"Agrarian, Territorial and Urban Development",Other subsidies,Modernization program for public property registries and cadastres,1,"Property rights, inheritance, control of land and other assets",#E5243B,19101412,End poverty in all its forms everywhere
+"Agrarian, Territorial and Urban Development",Provision of public services,Ordering and regulation of rural property,1,Access to economic resources,#E5243B,10555916,End poverty in all its forms everywhere
+Agriculture and Rural Development,Core fundings,Agriculture promotion program,2,Increased productivity and agricultural production,#DDA63A,18372803,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture"
+Agriculture and Rural Development,Core fundings,Livestock development program,2,Increased productivity and agricultural production,#DDA63A,9742851,"End hunger, achieve food security and improved nutrition and promote sustainable agriculture"
+Health,"Planning, monitoring and evaluation of public policies",Prevention and care of HIV/AIDS and other STIs,3,Awareness raising campaigns,#4C9F38,2588931,Ensure healthy lives and promote well-being for all at all ages
+Health,Provision of public services,Prevention and care against addictions,3,Awareness raising campaigns,#4C9F38,6476753,Ensure healthy lives and promote well-being for all at all ages
+Public Education,Core fundings,Physical culture and sports program,3,Improve wellbeing,#4C9F38,13945909,Ensure healthy lives and promote well-being for all at all ages
+Public Education,Other subsidies,Expansion of higher secondary and higher education,4,Access to technical training,#C5192D,1064690,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+Public Education,Core fundings,National English Program,4,Improve teaching quality,#C5192D,12425110,Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all
+Government,Provision of public services,Promote care and prevention of violence against women,5,Awareness raising campaigns,#FF3A21,9110955,Achieve gender equality and empower all women and girls
+Public Education,Provision of public services,Gender equality policies in the educational sector,5,Reproductive right,#FF3A21,9051793,Achieve gender equality and empower all women and girls
+Environment and Natural Resources,Provision of public services,Operation and maintenance of water infrastructure,6,Affordable price,#26BDE2,18713095,Ensure availability and sustainable management of water and sanitation for all
+Environment and Natural Resources,Regulation and supervision,Comprehensive and sustainable water management,6,End open defecation,#26BDE2,5633759,Ensure availability and sustainable management of water and sanitation for all
+Salary and Economic Provisions,Other subsidies,Electricity rate subsidies,7,"Affordable, modern and trusted services",#FCC30B,7824726,"Ensure access to affordable, reliable, sustainable and modern energy for all"
+Energy,Regulation and supervision,Regulation and supervision of nuclear and radiological activities,7,Nuclear waste management,#FCC30B,1331806,"Ensure access to affordable, reliable, sustainable and modern energy for all"
+Work and Social Security,Provision of public services,Labor justice enforcement,8,Promoting inclusion,#A21942,17152265,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"
+Economy,Other subsidies,Program for the development of the software industry and innovation,8,Diversification,#A21942,6832151,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"
+Work and Social Security,Provision of public services,Employment support program,8,Access to technical training,#A21942,19498587,"Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all"
+Economy,Provision of public services,Production of geological information of the national territory,9,Impact on employment,#FD6925,15492496,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"
+Economy,Other subsidies,Program for industrial productivity and competitiveness,9,Impact on employment,#FD6925,19837881,"Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation"
+Treasury and Public Credit,Other subsidies,Strengthening the bank savings protection system,10,Improve regualation,#DD1367,6318661,Reduce inequality within and among countries
+"Agrarian, Territorial and Urban Development",Core fundings,Program for the constitution of priority territorial reserves for orderly urban development,11,"Adequate, safe and affordable housing and services",#FD9D24,3518320,"Make cities and human settlements inclusive, safe, resilient and sustainable"
+"Agrarian, Territorial and Urban Development",Provision of public services,Administration of common funds of agrarian communities and supervision of expropriations,11,Efficient use of resources,#FD9D24,2430378,"Make cities and human settlements inclusive, safe, resilient and sustainable"
+Environment and Natural Resources,Regulation and supervision,Air quality and vehicle verification programs,11,Municipal waste management,#FD9D24,19078248,"Make cities and human settlements inclusive, safe, resilient and sustainable"
+Turismo,Promotion and encouragement,Development and promotion of sustainable tourism projects,12,Cultural promotion and local products,#BF8B2E,6455543,Ensure sustainable consumption and production patterns
+Salary and Economic Provisions,Core fundings,Natural Disasters Fund,13,Strengthening information system,#3F7E44,19651160,Take urgent action to combat climate change and its impacts
+Environment and Natural Resources,"Planning, monitoring and evaluation of public policies",Assessment of the National Climate Change Policy,13,Medium-term forecasts,#3F7E44,17128009,Take urgent action to combat climate change and its impacts
+Environment and Natural Resources,Regulation and supervision,National system of protected natural areas,14,Strengthening its resilience,#0A97D9,15274605,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development"
+Environment and Natural Resources,Support for operating rules,Conservation program for sustainable development,14,Pollution from activities carried out on land,#0A97D9,16225702,"Conserve and sustainably use the oceans, seas and marine resources for sustainable development"
+Environment and Natural Resources,Regulation and supervision,Environmental regulations and instruments for sustainable development,15,Fight desertification,#56C02B,4275829,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss"
+Environment and Natural Resources,Support for operating rules,Support for sustainable forest development,15,Rehabilitate degraded lands and soils,#56C02B,15446168,"Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss"
+Work and Social Security,Support for public service and management improvement,Activities to support public service and good governance,16,Training for public servants,#00689D,1258503,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels"
+National Defense,Functions of the Armed Forces,Strengthening the military intelligence system,16,Illicit financial flows,#00689D,6588200,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels"
+Non-Sectorized Entities,Other subsidies,Indigenous rights program,16,Community protection,#00689D,10750154,"Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels"
+Economy,Promotion and encouragement,Promotion of foreign trade and attraction of foreign direct investment,17,Impact on employment,#19486A,2948401,Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
